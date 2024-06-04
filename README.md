@@ -31,7 +31,7 @@ To set up the game, follow these steps:
    - Launch two instances of the game to test multiplayer functionality locally.
 
 ## 🕹️ Controls
-- **Spacebar**: Roll the dice.
+- **Find**: To find the match.
 - **Mouse Click**: Interact with UI elements.
 
 ## 📜 License
